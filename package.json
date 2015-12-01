@@ -1,0 +1,15 @@
+{
+  "name": "html-to-ts-definition",
+  "version": "0.0.1",
+  "description": "Reads HTML files and generates TypeScript definition files (.d.ts)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Ognibene",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "htmlparser2": "^3.8.3"
+  }
+}
